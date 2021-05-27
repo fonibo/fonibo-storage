@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>Fonibo</Authors>
+    <Description>Simple storage abstraction solution for uploading and downloading blob data</Description>
+    <PackageLicenseUrl>https://github.com/fonibo/fonibo-storage/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageTags>storage, blob-storage, s3</PackageTags>
+    <PackageProjectUrl>https://github.com/fonibo/fonibo-storage</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fonibo/fonibo-storage</RepositoryUrl>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
